@@ -48,3 +48,28 @@ button {
     border: none;
     cursor: pointer;
 }
+
+/* Add this to the end of your existing styles.css file */
+
+#menu {
+    background-color: #f4f4f4;
+}
+
+.menu-item {
+    margin-bottom: 20px;
+}
+
+.menu-item h3 {
+    color: #333;
+}
+
+.menu-item ul {
+    list-style: none;
+    padding: 0;
+}
+
+.menu-item li {
+    margin: 5px 0;
+    color: #555;
+}
+
